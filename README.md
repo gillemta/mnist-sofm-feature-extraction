@@ -73,4 +73,4 @@ A comprehensive report detailing:
 - Experimental results including confusion matrices, error fractions, and performance comparisons.
 - In-depth analysis of the classifier performance and feature visualizations.
 
-The full report is available in the `/docs` folder or can be downloaded directly from [Final Homework 5 Report](link-to-report.pdf).
+The full report is available in the `/docs` folder or can be downloaded directly from [Final Homework 5 Report](docs/Homework5-report.pdf).
